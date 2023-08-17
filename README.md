@@ -22,7 +22,7 @@ terraform validate
 ```
 terraform plan 
 ```
-`Its like a dry run`
+`Generate an execution plan for applying Terraform configurations to infrastructure. Its like a dry run`
  ```
 terraform apply
 ```
