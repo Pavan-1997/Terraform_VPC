@@ -24,6 +24,8 @@ terraform plan
  ```
 terraform apply
 ```
+```
 terraform fmt 
+```
 `For formatting the code`
 terraform apply -auto-approve
