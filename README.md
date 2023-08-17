@@ -18,6 +18,7 @@ terraform init
 ```
 terraform validate
 ```
+`Check and validate the syntax and configuration of Terraform files`
 ```
 terraform plan 
 ```
