@@ -20,8 +20,8 @@ terraform validate
 ```
 terraform plan 
 ```
-(Its like a dry run)
-```
+`Its like a dry run`
+ 
 terraform apply
 
 terraform fmt (For formatting the code)
