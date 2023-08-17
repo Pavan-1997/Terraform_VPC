@@ -30,7 +30,7 @@ terraform apply
 ```
 terraform fmt 
 ```
-`For formatting the code`
+`Automatically format Terraform configuration files for consistent style`
 ```
 terraform apply -auto-approve
 ```
