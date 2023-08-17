@@ -14,6 +14,7 @@ We are created the below using Terraform
 ```
 terraform init
 ```
+`Initialize Terraform configuration and providers in the current directory`
 ```
 terraform validate
 ```
