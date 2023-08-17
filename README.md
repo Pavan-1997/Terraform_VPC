@@ -17,8 +17,9 @@ terraform init
 ```
 terraform validate
 ```
-terraform plan (Its like dry run)
-
+```
+terraform plan 
+```
 terraform apply
 
 terraform fmt (For formatting the code)
