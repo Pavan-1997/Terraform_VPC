@@ -36,6 +36,6 @@ terraform apply -auto-approve
 ```
 `Apply Terraform configurations without interactive approval, automatically confirming changes`
 
-3. Open the LB endpoint and access the application
+3. Open the LB endpoint in the Terraform terminal and access the application
 
 
