@@ -11,9 +11,9 @@ We are created the below using Terraform
 
 
 2. Terraform commands
-
+```
 terraform init
-
+```
 terraform validate
 
 terraform plan (Its like dry run)
