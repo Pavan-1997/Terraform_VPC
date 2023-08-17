@@ -14,8 +14,9 @@ We are created the below using Terraform
 ```
 terraform init
 ```
+```
 terraform validate
-
+```
 terraform plan (Its like dry run)
 
 terraform apply
