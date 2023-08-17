@@ -34,3 +34,4 @@ terraform fmt
 ```
 terraform apply -auto-approve
 ```
+`Apply Terraform configurations without interactive approval, automatically confirming changes`
