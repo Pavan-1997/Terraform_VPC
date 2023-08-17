@@ -35,3 +35,7 @@ terraform fmt
 terraform apply -auto-approve
 ```
 `Apply Terraform configurations without interactive approval, automatically confirming changes`
+
+3. Open the LB endpoint and access the application
+
+
