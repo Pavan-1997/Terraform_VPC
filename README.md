@@ -26,6 +26,7 @@ terraform plan
  ```
 terraform apply
 ```
+`Apply Terraform configurations to create or modify infrastructure as defined`
 ```
 terraform fmt 
 ```
